@@ -1,0 +1,12 @@
+*{
+  margin: 10px;
+  font: 14pt sans-serif;
+   border-radius: 8px; 
+}
+div{
+ padding: 20px;
+  margin-left: 150px;
+  margin-right: 150px;
+  display: block;
+  background: #e6f2ff;
+}
